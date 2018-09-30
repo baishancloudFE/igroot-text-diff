@@ -10,7 +10,7 @@ sl add -c igroot-text-diff
 
 ## API
 
-````jsx
+```
 <TextDiff
   width={1200}
   height={600}
