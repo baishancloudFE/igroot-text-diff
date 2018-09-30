@@ -1,0 +1,10 @@
+{
+  "name": "igroot-text-diff",
+  "type": "igroot-business-component",
+  "version": "0.0.2",
+  "builder": "igroot-business-component-dev-builder",
+  "options": {
+    "domain": "localhost",
+    "port": 2333
+  }
+}
